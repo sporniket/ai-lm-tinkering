@@ -1,0 +1,3 @@
+[submodule "05-cots-with-llama-cpp/llama-cpp"]
+	path = 05-cots-with-llama-cpp/llama-cpp
+	url = https://github.com/ggml-org/llama.cpp.git
